@@ -8,7 +8,7 @@ import ProgressBar from './ProgressBar';
 import QuizHeader from './QuizHeader';
 import { Gift, ChefHat, DollarSign, Trophy } from 'lucide-react';
 
-const LANDING_PAGE_URL = 'https://spontaneous-hotteok-1a9d0d.netlify.app';
+const LANDING_PAGE_URL = 'https://guia-financeiro-para-comprar-um-ps5.netlify.app/';
 
 const stageIcons = {
   engagement: Gift,
